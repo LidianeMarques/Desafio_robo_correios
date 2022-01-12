@@ -12,7 +12,7 @@
   5. Extrair os dados da página de resultado e exibir no terminal.
  <hr/>
   
-  ### <h3>Abaixo o código o desafio proposto:</h3>
+  ### <h3>Abaixo o código do desafio proposto:</h3>
   
 ~~~shell
   
